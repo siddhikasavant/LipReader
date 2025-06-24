@@ -2,6 +2,7 @@
 LipReader – Silent Speech to Text
 A deep learning project that reads lip movements from a video (no sound) and predicts the spoken sentence. Designed to assist the hearing-impaired, enable silent communication, and explore computer vision-based language understanding.
 | Area            | Tools / Libraries                 |
+|-----------------------------------------------------|
 | Language        | Python 3                          |
 | Computer Vision | OpenCV, Dlib (or MediaPipe)       |
 | Deep Learning   | TensorFlow / Keras (CNN + BiLSTM) |
