@@ -120,11 +120,14 @@ python predict_live.py
 
 Siddhika Savant – Project Lead, System Integration
 
-Harshada – Lip Detection and Preprocessing
+Aaliya Nadaph – User Interface Design and Real-Time Output Handling
 
-Samruddhi – Model Development and Training
+Harshada Chopade – Lip Detection and Preprocessing
 
-Alia – User Interface Design and Real-Time Output Handling
+Samruddhi Shelake – Model Development and Training
+
+
+
 ---
 
 
