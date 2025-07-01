@@ -1,6 +1,3 @@
-Got it buddy — here's your clean, **professional** `README.md` without emojis, perfect for GitHub, college submissions, or national-level competitions:
-
----
 
 ## LipReader – Real-Time Lip Movement to Text Translator
 
@@ -121,19 +118,14 @@ python predict_live.py
 
 ### Contributors
 
-* Siddhika Savant
-* Harshada
-* Samruddhi
-* Alia
+Siddhika Savant – Project Lead, System Integration
 
+Harshada – Lip Detection and Preprocessing
+
+Samruddhi – Model Development and Training
+
+Alia – User Interface Design and Real-Time Output Handling
 ---
 
-Let me know if you want to add:
 
-* A "Demo Video" section
-* Dataset links
-* Sample output screenshots
-* or license info at the bottom
-
-I can format that too.
 
